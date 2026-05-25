@@ -1,0 +1,6 @@
+Enterpyrogram
+tgcrypto
+motor
+dnspython
+pymongo
+pyTelegramBotAPI
